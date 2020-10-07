@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject2App"
+  },
+  {
+    "ParameterKey": "WebAppServersMinSize",
+    "ParameterValue": "2"
+  },
+  {
+    "ParameterKey": "WebAppServersMaxSize",
+    "ParameterValue": "4"
+  },
+  {
+    "ParameterKey": "S3CodeLoc",
+    "ParameterValue": "s3://novith-udacity-s3/udacity.zip"
+  }
+]
